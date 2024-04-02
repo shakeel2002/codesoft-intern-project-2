@@ -1,0 +1,101 @@
+body {
+    font-family: Bodoni MT Black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e4dbdb;
+    color: rgb(164, 134, 247);
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 2rch;
+}
+
+section h2 {
+    font-size: 2rcap;
+}
+
+img {
+    max-width: 35%;
+    height: 35%;
+}
+
+ul {
+    list-style: none;
+}
+
+.project {
+    margin-bottom: 2rem;
+}
+
+project h3 {
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #f3e6e6;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('aditya-chinchure-S1ToogvRvlU-unsplash.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+header {
+    background-color: rgba(51, 51, 51, 0.8); 
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+
+
+footer {
+    background-color: rgba(51, 51, 51, 0.8); 
+    color: rgb(3, 253, 149);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+body {
+    font-family: 'Your Chosen Font', Arial, sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Another Font', sans-serif;
+}
+body {
+    color: #fafcf9; 
+}
+h1, h2, h3 {
+    color: #8ac9f3; 
+}
+
+h2 {
+    color: #2d97ee; 
+}
+ a {
+    color: #c2e20d; 
+}
+
+
+
+
